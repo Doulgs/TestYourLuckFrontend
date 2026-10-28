@@ -1,0 +1,26 @@
+{
+  "source": "cline-extension-remote-config",
+  "version": "v1",
+  "remoteConfig": {
+    "version": "v1",
+    "providerSettings": {
+      "Cline": {}
+    },
+    "telemetryEnabled": false,
+    "mcpMarketplaceEnabled": false,
+    "yoloModeAllowed": true
+  },
+  "managedInstructions": [],
+  "metadata": {
+    "organizationId": "org-01KAXD217GDXADYMX7Z2EKZ8FM",
+    "paths": {
+      "pluginName": "remote-config",
+      "pluginPath": "/Users/douglas.domiciano/Douglas/TestYourLock/frontend/.cline/remote-config",
+      "workflowsPath": "/Users/douglas.domiciano/Douglas/TestYourLock/frontend/.cline/remote-config/workflows",
+      "skillsPath": "/Users/douglas.domiciano/Douglas/TestYourLock/frontend/.cline/remote-config/skills",
+      "bundleCachePath": "/Users/douglas.domiciano/Douglas/TestYourLock/frontend/.cline/remote-config/cache/bundle.json",
+      "manifestPath": "/Users/douglas.domiciano/Douglas/TestYourLock/frontend/.cline/remote-config/managed.json",
+      "rulesFilePath": "/Users/douglas.domiciano/Douglas/TestYourLock/frontend/.cline/remote-config/rules.md"
+    }
+  }
+}
